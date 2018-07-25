@@ -1,4 +1,5 @@
 .vscode
+*.ps1
 
 *.aux
 *.synctex
