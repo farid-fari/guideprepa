@@ -1,6 +1,8 @@
 # Guide pour la MP*
 
-*Version 0.1 (\today)* - *disponible sur \href{https://github.com/farid-fari/guideprepa}{github/farid-fari}*
+*Note*: ce `pdf` contient des liens hypertexte, vérifiez que votre visionneuse `pdf` les détecte à l'aide de la table des contenus par exemple.
+
+*Version 0.2* - *disponible sur \href{https://github.com/farid-fari/guideprepa}{github/farid-fari}*
 
 ##### L'auto-censure
 Un des pires vices en prépa est l'*auto-censure*.
@@ -36,6 +38,7 @@ Avoir une compréhension intuitive de ce qui se passe est important cette année
 
 En règle générale, aller au plus simple.
 En tirer une démonstration -- si elle fonctionne, rédiger; sinon complexifier le dessin jusqu'à avoir un cas suffisament général pour en tirer une démonstration.
+Les dessins ne sont pas toujours la solution, mais l'intuition est un outil primordial.
 
 Si on ne comprend pas un concept du cours et que les explications ne conviennent pas, se tourner au plus vite vers un ouvrage auxiliaire (voir ceux qui sont conseillés ci-dessus).
 
@@ -57,7 +60,7 @@ Un sujet, quelque soit le concours dont il est tiré, peut permettre de travaill
 La notation de l'enseignant ne correspond pas nécessairement à celle des concours.
 
 Une dichotomie difficile est le choix entre *sauter* ou *affronter* les questions sur lesquelles on coince.
-C'est en fait une question de question de stratégie ou de gout (voire de style) qui n'admet pas de réponse finale.
+C'est en fait une question de stratégie ou de gout (voire de style) qui n'admet pas de réponse finale.
 
 ### Colles
 Les colleurs de maths arrivent dans toutes les formes et coloris, et il faut savoir s'adapter -- c'est d'ailleurs aussi le cas des examinateurs de concours.
@@ -65,7 +68,7 @@ En général, ça sera le même esprit que l'an dernier, mais il faut savoir gar
 
 ## Physique
 Encore une fois, la connaissance du cours est primordiale.
-Certains chapitres ont une thématique proche (par exemple, le bloc *Electromagnétisme*) qui mènent à beaucoup de transversalité dans les sujets de concours.
+Certains chapitres ont une thématique proche (par exemple, le bloc *Electromagnétisme*), ce qui mène à beaucoup de transversalité dans les sujets de concours.
 Il faut donc être capable de faire le lien entre les divers chapitres *qualitativement* (**analogies**) et *quantitativement* (résoudre des exercices faisant appel à plusieurs notions).
 
 Il reste cependant parfois possible pendant les écrits de fuir un thème lorsque le sujet fait le tour du programme.
@@ -73,7 +76,7 @@ Il reste cependant parfois possible pendant les écrits de fuir un thème lorsqu
 Il est important de connaître quelques ordres de grandeur autant pour les oraux que les écrits (et surtout pour les *Mines* et *X/ENS*).
 
 ### TD
-Les TD seront aussi distants des sujets de concours qu'en maths, ils sont en fait une sorte de mélange oral-écrit (les exercices sont plus courts qu'un oral réel, et sont au final au plus proche des colles).
+Les TD seront aussi distants des sujets de concours qu'en maths, ils sont en fait une sorte de mélange oral-écrit -- les exercices sont plus courts qu'un oral réel, et sont au final au plus proche des colles.
 Ils sont cependant très utiles, puisqu'ils permettent de vérifier la compréhension de points précis du cours.
 En général, ils sont terminables (une page recto-verso) et assurent une bonne note en DS s'ils sont maitrisés.
 Ils sont d'ailleurs souvent majoritairement traités en classe.
@@ -81,13 +84,13 @@ Ils sont d'ailleurs souvent majoritairement traités en classe.
 ### DS
 Bien que ce soit contre-intuitif, il faut réellement savoir contourner les difficultés.
 Parfois, le sujet fait appel à des notions floues (ce qui est beaucoup plus rare en *MPSI*) et crée volontairement la confusion.
-Devant une telle confusion, il faut soit *construire* une réponse la plus satisfaisante possible - et en restant **cohérent** dans ses réponses --, soit *sauter* cette question.
+Devant une telle confusion, il faut soit *construire* une réponse la plus satisfaisante possible - et en restant **cohérent** dans ses réponses -, soit *sauter* cette question.
 
 Il faut dans les deux cas savoir se séparer de son côté perfectionniste, pour donner une réponse un peu fragile mais la meilleure possible.
 
 ## Anglais
 L'important est de consommer un maximum de culture anglophone.
-Cela vous permettera non seulement d'améliorer votre niveau *technique* (prononciation, grammaire, vocabulaire...) et *culturel* (connaissance des actualités, des évènements historiques marquants, ...).
+Cela vous permettera non seulement d'améliorer votre niveau *technique* (prononciation, grammaire, vocabulaire...) mais aussi *culturel* (connaissance des actualités, des évènements historiques marquants, ...).
 
 Pour l'aspect culturel, l'objectif est de se former des repères précis pour les écrits autant que les oraux.
 
@@ -107,6 +110,7 @@ Pour mieux comprendre cela, naviguer les divers sujets écrits d'informatique: l
 
 ## TIPE
 Il faut être bien renseigné quant au coefficient du TIPE dans le(s) concours vous intéressant: il peut être très faible.
+Il ne faut donc pas dédier trop de ressources à cet exercice qui ne sera que superficiellement examiné, mais attention à ne pas le négliger et porter préjudice à son travail aux autres concours.
 Notez qu'un contenu scientifique rigoureux et complet n'est (malheureusement) pas toujours nécessaire à l'obtention d'une bonne note, mais une présentation claire et pédagogue, si.
 
 Le TIPE est en fait un exercice de **communication scientifique**, et on vous reprochera beaucoup plus facilement une présentation difficile à suivre d'un sujet de très haute voltige qu'une présentation triviale mais claire d'un sujet banal.
@@ -124,6 +128,8 @@ L'exercice de choix reste difficile puisqu'on peut se retrouver avec des sommes 
 Le site est très peu clair sur ce point.
 
 ## Ecrits
+*Remarque*: Respectez rigoureusement les limites de mots quand elles existent, c'est puni très sévèrement et il serait dommage qu'un sujet de langue détruise vos deux années de travail.
+
 ### Révisions
 Il n'y a pas de secret à la révision des écrits: il faut faire beaucoup de sujets.
 Voici quelques points importants lors de la révision des écrits, dans aucun ordre particulier:
@@ -142,22 +148,26 @@ Vous aurez (environ) une semaine par banque, et l'ordre en $2018$ était *X*/*EN
 Attention aux consignes particulières: pas de calculatrices aux *Mines*, prénom sur la calculatrice à *Centrale* (et calculatrice autorisée à toutes les épreuves scientifiques) ou encore papier limité à *Centrale*.
 
 ### Maths, Informatique
+La plupart des sujets de maths et d'informatique depuis les années $80$ - tous concours confondus - peuvent être trouvés sur le site de l'*UPS*, \href{https://concours-maths-cpge.fr/}{concours-maths-cpge.fr}.
+De nombreux corrigés y sont aussi disponibles (attention cependant à leur qualité, la rédaction est parfois lapidaire).
+
 L'annexe ci-jointe (`sujets.pdf`) conseille quelques sujets explorés durant ma préparation que je trouve être riches et intéressants.
 
 ## Oraux
 ### Organisation
 Chaque série d'oraux aura lieu durant une semaine, dans un ordre arbitraire qui vous sera révélé après les résultats d'admissibilité.
 L'organisation est souvent plus branlante que celle des écrits, notamment pour le TIPE qui se passe au centre de Paris.
-Vous n'aurez pas d'autres oraux le jour du TIPE pour vous déplacer, et l'heure de convocation est en fait une heure d'avance sur l'heure de passage (dont 30min d'avance sur l'heure d'appel).
-Ne soyez donc ni pressé, ni en avance.
+
+Les *Mines* proposent trois sites de logement (*ENSTA*, *Mines ParisTech* et *Ponts*).
+L'organisation de l'*X* est mêlée à celle de l'*ENSTA* (certains oraux y ont lieu).
+Les *ENS* fournissent le strict minimum, et ont une organisation peu explicite.
 
 De manière générale, vous serez logé sur place pendant vos oraux, mais les prix peuvent être élevés:
 
-- *Centrale*: $\sim$300€ logements, $\sim$4€ par repas (2€ le petit-déjeuner)
-- *Mines* site *ENSTA*: $\sim$300€, repas compris
-- *CCP*:
-- *ENS*:
-- *X*:
+- *Centrale*: $\sim$220€ logements, $\sim$4€ par repas (2€ le petit-déjeuner)
+- *Mines* (site *ENSTA*): $\sim$300€, repas compris
+- *CCP*: rien n'est fourni
+- *ENS*: $sim$200€ logement
 
 *Remarque*: Je conseille les abonnements \href{https://www.oui.sncf/bons-plans/tgvmax}{TGVmax} si vous comptez prendre le train.
 
@@ -165,11 +175,29 @@ De manière générale, vous serez logé sur place pendant vos oraux, mais les p
 L'important est de savoir dialoguer de manière constructive avec l'examinateur.
 Il faut savoir montrer ce que l'on a compris (ou *il n'y a pas de constats inutiles/stupides*) et ce qui nous fait coincer.
 Attention, cela ne signifie aucunement qu'il faut parler à tout prix (ou *il y a des constats inutiles/stupides*).
-L'examinateur vous décoince lorsque vous coincez mais il ne fait pas le sujet à votre place -- voir par ailleurs la description des colleurs plus haut, qui reste valable pour les examinateurs.
+L'examinateur doit vous décoincer lorsque vous coincez mais il ne fait pas le sujet à votre place -- voir par ailleurs la description des colleurs plus haut, qui reste valable pour les examinateurs.
 
+Il faut encore une fois bien connaitre son cours: une bêtise ne coute rien (ou peu) si on sait répondre à la question de cours subséquente, mais est très couteuse si elle révèle une méconnaissance du cours.
+
+#### Maths
 Pour les concours *X*/*ENS* en maths, les éditions *Cassini* proposent des exercices corrigés de très haute qualité.
-Ces livres sont disponibles en pret à la bibliothèque universitaire (à SMH), et quelques `pdf` piratés trainent en ligne.
+Ces livres sont disponibles en prêt à la bibliothèque universitaire (à SMH), et quelques `pdf` piratés trainent en ligne.
 Attention à préparer des exercices vous concernant: préparer les *ENS* ne requiert pas de faire les exercices calculatoires proposés par *Polytechnique*.
+
+#### Physique
+Les sujets de physique sont souvent trop longs pour la durée de l'oral.
+Le format est relativement standard (hors *X*/*ENS*), avec une ou des questions de cours suivies au début et d'élargissement à la fin (énoncé d'une page environ composé de 5 à 10 questions).
+
+Aux *ENS*, on sera confronté à une question très courte et ouverte tandis qu'aux autres oraux on peut s'attendre à des exercices plus longs, en plusieurs questions.
+
+#### Informatique (*ENS*)
+Pour l'épreuve de TP, il faut être habitué aux distributions de type UNIX.
+Je conseille de maitriser `vim` ou `emacs` puisque ce sont les seuls éditeurs respectables disponibles.
+Je conseille de savoir coder en `ocaml` pour la vitesse complémentaire (utiliser `ocamlopt`).
+Attention aux questions théoriques ou de cours qui peuvent tomber pendant l'oral du TP.
+
+Pour les épreuves d'informatique fondamentale, faire un maximum de sujets issus des rapports respectifs (*LCR* et *Ulm*).
+Aucun corrigé n'existe *a priori* mais les sujets sont faisables avec suffisament de temps.
 
 ### Anglais
 Les examinateurs, dépendant des concours, vont tester les choses suivantes:
@@ -186,13 +214,18 @@ L'examinateur des *Mines* que j'ai eu voulait sonder très précisément ma conn
 Il faut donc être capable de citer des exemples précis de tous les phénomènes évoqués.
 
 A *Centrale*, j'ai eu droit à des questions intéressantes et pertinentes autour du texte.
-Une camarade a rapporté avoir été embétée pour s'être trop éloignée du sujet dans son commentaire -- mais c'est un cas *a priori* isolé.
-Vous avez au début le choix entre deux textes, vous donnant de une flexibilité bienvenue.
+Une camarade a rapporté avoir été embêtée pour s'être trop éloignée du sujet dans son commentaire -- mais c'est un cas *a priori* isolé.
+Vous avez au début le choix entre deux textes, vous donnant une flexibilité bienvenue.
 
 ### TIPE
+Vous n'aurez pas d'autres oraux le jour du TIPE pour vous déplacer, et l'heure de convocation est en fait une heure d'avance sur l'heure de passage (dont 30 minutes d'avance sur l'heure d'appel).
+Il a cependant lieu au centre de Paris (à l'*IUT de Paris*, à environ 1 heure de Palaiseau en RER)
+Ne soyez donc ni pressé, ni en avance.
+
 Il est important de s'entrainer à l'oral: présenter à diverses personnes et se préprarer à diverses questions.
-Un jury peut être intéressé par une petite partie de la présentation et poser de nombreuses questions dessus, il ne faut donc rien laisser de coté et être pret à toutes les questions autour de son sujet si l'on veut réussir cette épreuve.
+Un jury peut être intéressé par une petite partie de la présentation et poser de nombreuses questions dessus, il ne faut donc rien laisser de côté et être pret à toutes les questions autour de son sujet si l'on veut réussir cette épreuve.
 Les parties les plus simples peuvent mener à des questions plus pointues, comme des exemples.
-La présentation doit contenir autant d'illustrations que possible, et vous devez être pret à fournir et disséquer des exemples pour illustrer à peu près tout ce que vous présentez.
+La présentation doit contenir autant d'illustrations que possible, et vous devez être prêt\textperiodcentered e à fournir et disséquer des exemples pour illustrer à peu près tout ce que vous présentez.
 
 Ceci est d'autant plus vrai du concours *ENS*, qui propose un format différent de TIPE (tandis que le concours de l'*X* n'en propose pas).
+
