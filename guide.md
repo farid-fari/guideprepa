@@ -151,7 +151,7 @@ Attention aux consignes particulières: pas de calculatrices aux *Mines*, préno
 La plupart des sujets de maths et d'informatique depuis les années $80$ - tous concours confondus - peuvent être trouvés sur le site de l'*UPS*, \href{https://concours-maths-cpge.fr/}{concours-maths-cpge.fr}.
 De nombreux corrigés y sont aussi disponibles (attention cependant à leur qualité, la rédaction est parfois lapidaire).
 
-L'annexe ci-jointe (`sujets.pdf`) conseille quelques sujets explorés durant ma préparation que je trouve être riches et intéressants.
+L'annexe ci-jointe (\href{sujets.pdf}{`sujets.pdf`}) conseille quelques sujets explorés durant ma préparation que je trouve être riches et intéressants.
 
 ## Oraux
 ### Organisation
@@ -193,7 +193,7 @@ Aux *ENS*, on sera confronté à une question très courte et ouverte tandis qu'
 #### Informatique (*ENS*)
 Pour l'épreuve de TP, il faut être habitué aux distributions de type UNIX.
 Je conseille de maitriser `vim` ou `emacs` puisque ce sont les seuls éditeurs respectables disponibles.
-Je conseille de savoir coder en `ocaml` pour la vitesse complémentaire (utiliser `ocamlopt`).
+Je conseille de savoir coder en `ocaml` pour la vitesse supplémentaire (utiliser `ocamlopt`).
 Attention aux questions théoriques ou de cours qui peuvent tomber pendant l'oral du TP.
 
 Pour les épreuves d'informatique fondamentale, faire un maximum de sujets issus des rapports respectifs (*LCR* et *Ulm*).
@@ -219,7 +219,7 @@ Vous avez au début le choix entre deux textes, vous donnant une flexibilité bi
 
 ### TIPE
 Vous n'aurez pas d'autres oraux le jour du TIPE pour vous déplacer, et l'heure de convocation est en fait une heure d'avance sur l'heure de passage (dont 30 minutes d'avance sur l'heure d'appel).
-Il a cependant lieu au centre de Paris (à l'*IUT de Paris*, à environ 1 heure de Palaiseau en RER)
+Il a cependant lieu au centre de Paris (à l'*IUT de Paris*, à environ 1 heure de Palaiseau en RER).
 Ne soyez donc ni pressé, ni en avance.
 
 Il est important de s'entrainer à l'oral: présenter à diverses personnes et se préprarer à diverses questions.
